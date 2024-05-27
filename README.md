@@ -1,2 +1,2 @@
 # HexaPod
-My Robot Project
+A Robot with 6 Legs, I want to do this as a learn expirience that will help me to understand other concepts from mechanical engineering to a battery management system (BMS). First I want to talk about electronics and software. As programming language I want to use mostly python. The "Brain" will be a Rasperberry Pi Zero 2 W with CircuitPython on it, on the RPi will be a routing PCB that connects the GPIO to other Pins that need them. Under the routing PCB will be a BMS that manage six Li-Ion Cells (2S3P). As Sensors for the Robot will be a 9-DOF Gyroscope in the Middle of the XY-Plane and a Camera at the Moment, maybe later a LIDAR. 
