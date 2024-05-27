@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=HexaPodLibary\HexaPodLibary.PrjPcb
+[Project2]
+ProjectPath=Hexapod\Hexapod.PrjMbd
+[Project3]
+ProjectPath=HexaPod-MainBoard\HexaPod-MainBoard.PrjPcb
+[Project4]
+ProjectPath=HexaPod-BMS\HexaPod-BMS.PrjPcb
+[Project5]
+ProjectPath=Adafruit 9-DOF Absolute Orientation\Adafruit 9-DOF Absolute Orientation.PrjPcb
+[Project6]
+ProjectPath=Raspberry Pi Zero 2 W\Raspberry Pi Zero 2 W.PrjPcb
